@@ -1,0 +1,2 @@
+# Augmented-Reality-based-3d-game-Catching-the-hen
+The game will create graphical animated hen in real environment which is visible from the AR(Augmented reality) camera of the device. The main goal for the player is to catch the hen which is visible to him in his AR camera. Player will be provided by the number of nets which will be used for the purpose of catching the hen. Only thing the player had to do is throw the net onto the hen in correct direction to capture it. There will be three Different levels to complete the game.
